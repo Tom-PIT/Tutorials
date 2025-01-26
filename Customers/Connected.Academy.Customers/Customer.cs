@@ -1,4 +1,3 @@
-using System;
 using Connected.Annotations;
 using Connected.Annotations.Entities;
 using Connected.Entities;

@@ -1,4 +1,3 @@
-using System;
 using Connected.Annotations;
 
 namespace Connected.Academy.Customers.Dtos;

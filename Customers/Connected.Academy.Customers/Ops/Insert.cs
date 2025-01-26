@@ -1,4 +1,3 @@
-using System;
 using Connected.Academy.Customers.Dtos;
 using Connected.Entities;
 using Connected.Notifications;

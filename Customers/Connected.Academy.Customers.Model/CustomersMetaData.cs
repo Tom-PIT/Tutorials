@@ -1,5 +1,3 @@
-using System;
-
 namespace Connected.Academy.Customers;
 
 public static class CustomersMetaData

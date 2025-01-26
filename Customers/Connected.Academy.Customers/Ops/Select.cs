@@ -1,4 +1,3 @@
-using System;
 using Connected.Entities;
 using Connected.Services;
 
